@@ -9,7 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.d("Zebra","Welcome on git Ashish")
         println("Hello, World! Mr Ashish")
     }
 }
